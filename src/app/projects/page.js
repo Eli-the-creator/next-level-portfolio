@@ -53,7 +53,7 @@ export default function Project() {
           </p>
         </div>
 
-        <div className="grid grid-cols-2 gap-3 mt-20">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-3 mt-20">
           {renderData.map((el, idx) => (
             <Link key={idx} href={`/projects/${el.id}`}>
               <div
@@ -68,7 +68,9 @@ export default function Project() {
                   alt={el.name}
                 />
                 <div className="p-2">
-                  <h2 className="text-lg font-semibold">{el.name}</h2>
+                  <p className="text-lg font-semibold text-zinc-800">
+                    {el.name}
+                  </p>
                   <p className="font-normal text-zinc-400">{el.description}</p>
                 </div>
               </div>
