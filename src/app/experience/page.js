@@ -3,7 +3,7 @@ import CallToAction from "@/components/Home/CallToAction";
 
 const CONTENT = [
   {
-    image: "/work/it.png",
+    image: "/work/itrods.png",
     alt: "IT Rods",
     description:
       "After graduating from school, I joined a company that developed websites using React, working on a more professional level than freelancing. It was there that I was first introduced to business processes.",
