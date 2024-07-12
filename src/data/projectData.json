@@ -1,0 +1,371 @@
+{
+  "projectData": [
+    {
+      "id": 1,
+      "name": "Form builder",
+      "tag": "Web",
+      "description": "Build forms with ease. Drag & Drop web-site builder",
+      "fullDescription": "This web application, developed using Next.js and TypeScript, offers a powerful and user-friendly interface for creating custom forms. Users can effortlessly design their forms by dragging and dropping a variety of aesthetically pleasing blocks. Each block represents different types of input fields such as text boxes, checkboxes, radio buttons, and more. The intuitive drag-and-drop functionality ensures that even users with no coding experience can build complex forms with ease. Once the form is created and published, the application provides comprehensive analytics and statistics on the form's performance. Users can track metrics such as the number of submissions, average completion time, and field-specific data. These insights help users understand how their forms are being used and identify areas for improvement.",
+      "preview": "/project/web/formBuilder/1.jpeg",
+      "screenshots": [
+        "https://via.placeholder.com/200x200.png?text=Project+1",
+        "https://via.placeholder.com/200x200.png?text=Project+1"
+      ],
+      "likns": [
+        "https://form-builder-blush.vercel.app/sign-in?redirect_url=https%3A%2F%2Fform-builder-blush.vercel.app%2F",
+        "https://github.com/Eli-the-creator/form-builder"
+      ],
+      "tools": [
+        "Next-JS",
+        "Typescript",
+        "Redux",
+        "TailwindCSS",
+        "Clerk",
+        "RadixUI"
+      ],
+      "feature": [
+        "Drag & Drop builder",
+        "Safe your page in the DataBase",
+        "Real-time Preview",
+        "Customizable Blocks",
+        "Responsive Design",
+        "Auth (Clerk)",
+        "Back-end logic, safe page and collecting response",
+        "Secure Data Handling",
+        "Dark/Light mode "
+      ],
+      "date": "2022"
+    },
+    {
+      "id": 2,
+      "name": "LMS Platform",
+      "tag": "Web",
+      "description": "Fully functional learning platform, upload and sell. ",
+      "fullDescription": "PlanetScale remove free hobby plan (THIS PROJECT IS CURRENTLY NOT AVAILABLE, but you can check my the source code on my GitHub).   This web application, developed using Next.js and TypeScript, serves as a robust educational platform designed for quick and easy course publication and knowledge selling. It is perfect for educators, trainers, and anyone looking to share their expertise online.",
+      "preview": "/project/web/lms/1.jpeg",
+      "screenshots": [
+        "/project/web/lms/1.jpeg",
+        "/project/web/lms/2.jpeg",
+        "/project/web/lms/3.jpeg",
+        "/project/web/lms/4.jpeg",
+        "/project/web/lms/5.jpeg",
+        "/project/web/lms/6.jpeg",
+        "/project/web/lms/7.jpeg",
+        "/project/web/lms/8.jpeg",
+        "/project/web/lms/9.jpeg"
+      ],
+      "likns": [
+        "https://lms-no-hustle.vercel.app/search",
+        "https://github.com/Eli-the-creator/lms-fullstack"
+      ],
+      "tools": [
+        "Next-JS",
+        "Typescript",
+        "Shadcn/UI",
+        "MUX Video",
+        "Clerk",
+        "Stripe",
+        "Prisma",
+        "MySQL (PlanetScale)"
+      ],
+      "feature": [
+        "Rich Analytics Dashboard",
+        "Rich course builder/editing",
+        "Upload video and sell your course",
+        "Student Engagement Analytics",
+        "Secure Payment Integration",
+        "API Protection",
+        "Auth (Clerk)",
+        "Marketing and SEO Tools",
+        "Teacher / Admin / Student access roles",
+        "Dark/Light mode"
+      ],
+      "date": "2022"
+    },
+    {
+      "id": 3,
+      "name": "Sanity/Stripe E-commerce",
+      "tag": "Web",
+      "description": "Simple store. Payments test mode on",
+      "fullDescription": "This web application, developed using Next.js and TypeScript, is an advanced E-commerce platform integrating Sanity for content management and Stripe for payment processing. It is designed to offer a comprehensive and user-friendly solution for creating and managing an online store.",
+      "preview": "/project/web/ezshope/1.jpeg",
+      "screenshots": [
+        "/project/web/ezshope/1.jpeg",
+        "/project/web/ezshope/2.jpeg",
+        "/project/web/ezshope/3.jpeg",
+        "/project/web/ezshope/4.jpeg",
+        "/project/web/ezshope/6.jpeg"
+      ],
+      "likns": [
+        "https://ez-store-eight.vercel.app/",
+        "https://github.com/Eli-the-creator/NextJS-E-Commerce/tree/main"
+      ],
+      "tools": [
+        "Next-JS",
+        "TypeScript",
+        "Stripe",
+        "Sanity",
+        "useShoppingCart",
+        "GROQ"
+      ],
+      "feature": [
+        "Customizable Storefront",
+        "Stripe Webhook",
+        "Dynamic Content Updates",
+        "Product Management",
+        "User-Friendly Interface",
+        "SEO Optimization",
+        "Sanity Content Management",
+        "Order Management",
+        "useShoppingCart",
+        "GROQ"
+      ],
+      "date": "2022"
+    },
+    {
+      "id": 4,
+      "name": "GraphQL Shope",
+      "tag": "Web",
+      "description": "Client Shope Storefront /Server API on GraphQL",
+      "fullDescription": "This web application, developed using React-JS and TypeScript, is a robust CRUD (Create, Read, Update, Delete) GraphQL CMS platform what I build just for practice GraphQL client side and server side, yes this is FULL-STACK app (THIS PROJECT IS CURRENTLY NOT AVAILABLE, but you can check my the source code on my GitHub). It is designed to offer a seamless and efficient content management experience, perfect for developers, content creators, and businesses looking to manage their digital content effectively.",
+      "preview": "/project/web/graphql-shope/1.jpeg",
+      "screenshots": [
+        "/project/web/graphql-shope/1.jpeg",
+        "/project/web/graphql-shope/2.jpeg",
+        "/project/web/graphql-shope/3.jpeg",
+        "/project/web/graphql-shope/4.jpeg"
+      ],
+      "likns": [
+        "https://github.com/Eli-the-creator/NextJS-E-Commerce/tree/main",
+        "https://github.com/sanity-io/sanity"
+      ],
+      "tools": ["React-JS", "TypeScript", "Sanity", "useShoppingCart", "GROQ"],
+      "feature": [
+        "GraphQL API",
+        "Content Management",
+        "API Integrations",
+        "useShoppingCart",
+        "GROQ"
+      ],
+      "date": "2022"
+    },
+    {
+      "id": 5,
+      "name": "Shopify Storefront",
+      "tag": "Web",
+      "description": "Client Shope Storefront /Server API on GraphQL",
+      "fullDescription": "This web application, developed using React-JS and TypeScript, is a robust CRUD (Create, Read, Update, Delete) GraphQL CMS platform what I build just for practice GraphQL client side and server side, yes this is FULL-STACK app (THIS PROJECT IS CURRENTLY NOT AVAILABLE, but you can check my the source code on my GitHub). It is designed to offer a seamless and efficient content management experience, perfect for developers, content creators, and businesses looking to manage their digital content effectively.",
+      "preview": "/project/web/shopify/1.jpeg",
+      "screenshots": [
+        "/project/web/shopify/1.jpeg",
+        "/project/web/shopify/2.jpeg"
+      ],
+      "likns": [
+        "https://github.com/Eli-the-creator/NextJS-E-Commerce/tree/main",
+        "https://github.com/sanity-io/sanity"
+      ],
+      "tools": ["React-JS", "TypeScript", "Sanity", "useShoppingCart", "GROQ"],
+      "feature": [
+        "GraphQL API",
+        "Content Management",
+        "API Integrations",
+        "useShoppingCart",
+        "GROQ"
+      ],
+      "date": "2022"
+    },
+
+    {
+      "id": 6,
+      "name": "Marketplace",
+      "tag": "Web",
+      "description": "This project is in development now.",
+      "fullDescription": "This web application, developed using Next.js and TypeScript, is a sophisticated Product Marketplace platform designed to facilitate seamless product listing, browsing, and purchasing. It is ideal for businesses, entrepreneurs, and individuals looking to create and manage an online marketplace.",
+      "preview": "/project/web/marketplace/1.jpeg",
+      "screenshots": [
+        "/project/web/marketplace/1.jpeg",
+        "/project/web/marketplace/2.jpeg",
+        "/project/web/marketplace/3.jpeg"
+      ],
+      "likns": [
+        "https://github.com/Eli-the-creator",
+        "https://github.com/Eli-the-creator"
+      ],
+      "tools": [
+        "Next-JS",
+        "Advanced Search and Filters",
+        "Sanity",
+        "useShoppingCart",
+        "GROQ"
+      ],
+      "feature": [
+        "Product Listings",
+        "TypeScript",
+        "User Accounts and Profiles",
+        "Secure Payment Processing",
+        "Ratings and Reviews",
+        "Analytics Dashboard",
+        "Responsive Design",
+        "Customizable Storefronts",
+        "API Integrations"
+      ],
+      "date": "2022"
+    },
+    {
+      "id": 7,
+      "name": "Podify - music app",
+      "tag": "Mobile",
+      "description": "Like Spotify, but better",
+      "fullDescription": "This mobile application, developed using React Native for a cross-platform (IOS & Android) user interface and Node.js with Express.js for the backend, delivers a comprehensive music streaming experience. Designed to cater to music enthusiasts, the app offers a variety of features to discover, play, and share music effortlessly.",
+      "preview": "/project/mobile/music-app/01_Preview.png",
+      "screenshots": [
+        "/project/mobile/music-app/01_Preview.png",
+        "/project/mobile/music-app/02_Preview.png",
+        "/project/mobile/music-app/03_Preview.png",
+        "/project/mobile/music-app/04_Preview.png",
+        "/project/mobile/music-app/05_Preview.png",
+        "/project/mobile/music-app/06_Preview.png",
+        "/project/mobile/music-app/07_Preview.png",
+        "/project/mobile/music-app/08_Preview.png",
+        "/project/mobile/music-app/09_Preview.png",
+        "/project/mobile/music-app/10_Preview.png",
+        "/project/mobile/music-app/11_Preview.png",
+        "/project/mobile/music-app/12_Preview.png",
+        "/project/mobile/music-app/13_Preview.png",
+        "/project/mobile/music-app/14_Preview.png",
+        "/project/mobile/music-app/15_Preview.png",
+        "/project/mobile/music-app/16_Preview.png",
+        "/project/mobile/music-app/17_Preview.png",
+        "/project/mobile/music-app/18_Preview.png",
+        "/project/mobile/music-app/19_Preview.png",
+        "/project/mobile/music-app/20_Preview.png",
+        "/project/mobile/music-app/21_Preview.png",
+        "/project/mobile/music-app/22_Preview.png",
+        "/project/mobile/music-app/23_Preview.png",
+        "/project/mobile/music-app/24_Preview.png",
+        "/project/mobile/music-app/25_Preview.png",
+        "/project/mobile/music-app/26_Preview.png",
+        "/project/mobile/music-app/27_Preview.png",
+        "/project/mobile/music-app/28_Preview.png",
+        "/project/mobile/music-app/29_Preview.png",
+        "/project/mobile/music-app/30_Preview.png"
+      ],
+      "likns": ["https://github.com/Eli-the-creator/podify-podcast-app-"],
+      "tools": [
+        "React Navite (Bare Flowe)",
+        "TypeScript",
+        "Node-JS",
+        "MongoDB",
+        "Postman",
+        "Express-JS",
+        "React Playlist",
+        "Redux"
+      ],
+      "feature": [
+        "Reach player",
+        "Playlist (Create, Edit, Delete, Filter, Share)",
+        "My Own full custom API on Express-JS & Node-JS",
+        "Upload audio to Database",
+        "One Time Password (OTP Auth)",
+        "Node-JS Email Verification",
+        "Notification",
+        "IOS / Android"
+      ],
+      "date": "2023"
+    },
+    {
+      "id": 8,
+      "tag": "Mobile",
+      "name": "Chatroom (FireBase)",
+      "description": "Full feature chat app, for IOS & Android",
+      "fullDescription": "This mobile application, developed using React Native for a cross-platform user interface and Firebase for the backend, provides a full-featured chat experience. Designed for seamless communication, the app incorporates a wide array of features to facilitate real-time messaging, media sharing, and user engagement.",
+      "preview": "/project/mobile/whats-up/01_Preview.png",
+      "screenshots": [
+        "/project/mobile/whats-up/01_Preview.png",
+        "/project/mobile/whats-up/02_Preview.png",
+        "/project/mobile/whats-up/03_Preview.png",
+        "/project/mobile/whats-up/04_Preview.png",
+        "/project/mobile/whats-up/05_Preview.png",
+        "/project/mobile/whats-up/06_Preview.png",
+        "/project/mobile/whats-up/07_Preview.png",
+        "/project/mobile/whats-up/08_Preview.png",
+        "/project/mobile/whats-up/09_Preview.png",
+        "/project/mobile/whats-up/10_Preview.png",
+        "/project/mobile/whats-up/11_Preview.png",
+        "/project/mobile/whats-up/12_Preview.png",
+        "/project/mobile/whats-up/13_Preview.png",
+        "/project/mobile/whats-up/14_Preview.png",
+        "/project/mobile/whats-up/15_Preview.png",
+        "/project/mobile/whats-up/16_Preview.png",
+        "/project/mobile/whats-up/17_Preview.png",
+        "/project/mobile/whats-up/18_Preview.png",
+        "/project/mobile/whats-up/19_Preview.png",
+        "/project/mobile/whats-up/20_Preview.png",
+        "/project/mobile/whats-up/21_Preview.png",
+        "/project/mobile/whats-up/22_Preview.png",
+        "/project/mobile/whats-up/23_Preview.png",
+        "/project/mobile/whats-up/24_Preview.png",
+        "/project/mobile/whats-up/25_Preview.png",
+        "/project/mobile/whats-up/26_Preview.png",
+        "/project/mobile/whats-up/27_Preview.png",
+        "/project/mobile/whats-up/36_Preview.png"
+      ],
+      "likns": ["https://github.com/Eli-the-creator/WhatsApp-Clone"],
+      "tools": ["React Navite", "EXPO", "TypeScript", "Redux", "Firebase"],
+      "feature": [
+        "Camera API",
+        "Real-Time Messaging",
+        "User Authentication",
+        "Multimedia Sharing",
+        "Push Notifications",
+        "Typing Indicators",
+        "Cloud Storage",
+        "Customizable Themes",
+        "Group Chats",
+        "Video Call",
+        "Notification",
+        "Code-push",
+        "Authorization (FireBase)",
+        "App for IOS / Android"
+      ],
+      "date": "2023"
+    },
+    {
+      "id": 9,
+      "name": "Mystic Academy",
+      "tag": "Mobile",
+      "description": "App what give you access to online courses from any device.",
+      "fullDescription": "ith the Academy Online E-Learning App, the future of education is at your fingertips. Stay ahead in your field, explore new horizons, and fuel your passion for knowledge. This innovative app is not just a platform; it’s a transformative tool that empowers learners and educators alike. Join the Academy app community and unlock a world of learning possibilities. Start your journey today!",
+      "preview": "/project/mobile/learn-app/1.png",
+      "screenshots": [
+        "/project/mobile/learn-app/1.png",
+        "/project/mobile/learn-app/10.png",
+        "/project/mobile/learn-app/12.png",
+        "/project/mobile/learn-app/13.png",
+        "/project/mobile/learn-app/15.png",
+        "/project/mobile/learn-app/16.png",
+        "/project/mobile/learn-app/17.png",
+        "/project/mobile/learn-app/21.png",
+        "/project/mobile/learn-app/23.png",
+        "/project/mobile/learn-app/24.png",
+        "/project/mobile/learn-app/26.png",
+        "/project/mobile/learn-app/33.png",
+        "/project/mobile/learn-app/36.png"
+      ],
+      "likns": ["https://github.com/Eli-the-creator/WhatsApp-Clone"],
+      "tools": ["React Navite", "EXPO", "TypeScript", "Redux", "Firebase"],
+      "feature": [
+        "Intuitive Gameplay",
+        "Single Player Mode",
+        "Multiplayer Mode",
+        "Cross-Device Play",
+        "Real-Time Synchronization",
+        "Customizable Themes",
+        "Game History and Statistics",
+        "Offline Play",
+        "App for IOS / Android"
+      ],
+      "date": "2023"
+    }
+  ]
+}

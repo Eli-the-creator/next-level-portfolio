@@ -1,0 +1,16 @@
+{
+  "project": [
+    {
+      "id": 1,
+      "name": "Form builder",
+      "description": "Drag & Drop page builder",
+      "preview": "https://via.placeholder.com/200x200.png?text=Project+1"
+    },
+    {
+      "id": 2,
+      "name": "LMS Platform",
+      "description": "Fully functional learning platform, upload and sell. ",
+      "preview": "https://via.placeholder.com/200x200.png?text=Project+1"
+    }
+  ]
+}
