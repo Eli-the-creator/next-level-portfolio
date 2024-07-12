@@ -2,6 +2,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import { ThemeProvider } from "next-themes";
 import { cn } from "@/lib/utils";
+import { Analytics } from "@vercel/analytics/react";
 
 import NavBar from "@/components/Global/NavBar";
 import GlogalWraper from "@/components/GlogalWraper";
@@ -46,6 +47,7 @@ export default function RootLayout({ children }) {
             <GlogalWraper>{children}</GlogalWraper>
             <Footer />
           </ThemeProvider>
+          <Analytics />
         </body>
       </CSPostHogProvider>
     </html>
