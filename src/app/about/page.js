@@ -96,8 +96,11 @@ export default function About() {
           Key to Success
         </h3>
         <div className="pt-10 flex flex-wrap justify-center gap-4 px-4">
-          {SUCCESS_VALUE_CONTENT.map((el) => (
-            <span className="shadow-md hover:scale-110 hover:shadow-lg transition-transform duration-300 px-3 py-2 border border-zinc-200 rounded-md ">
+          {SUCCESS_VALUE_CONTENT.map((el, idx) => (
+            <span
+              key={idx}
+              className="shadow-md hover:scale-110 hover:shadow-lg transition-transform duration-300 px-3 py-2 border border-zinc-200 rounded-md "
+            >
               <p className="text-lg  font-medium leading-loose">{el}</p>
             </span>
           ))}

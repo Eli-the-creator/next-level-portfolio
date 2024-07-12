@@ -55,7 +55,7 @@ export default function Project() {
 
         <div className="grid grid-cols-2 gap-3 mt-20">
           {renderData.map((el, idx) => (
-            <Link href={`/projects/${el.id}`}>
+            <Link key={idx} href={`/projects/${el.id}`}>
               <div
                 key={idx}
                 className="w-full aspect-square rounded-lg p-4 border bg-zinc-100 hover:scale-95 transition-all duration-300"

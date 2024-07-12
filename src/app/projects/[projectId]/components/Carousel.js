@@ -41,8 +41,8 @@ export function Carousel({ images, tag }) {
   return (
     <div className="slider-container">
       <Slider className="w-[93%] mx-auto rounded-md" {...settings}>
-        {images.map((el) => (
-          <div className="w-full h-[380px] rounded-md">
+        {images.map((el, idx) => (
+          <div key={idx} className="w-full h-[380px] rounded-md">
             <Image
               className="mx-auto rounded-md"
               src={el}

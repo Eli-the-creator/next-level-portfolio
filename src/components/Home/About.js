@@ -22,7 +22,7 @@ export default function About() {
           and intuitive interfaces and developing web applications as a
           freelancer during my school years 6 years ago.{" "}
           <span className="text-muted-foreground/40 font-bold ">
-            OMG i'm so old
+            OMG i&apos;m so old
           </span>
         </p>
         <p className="">

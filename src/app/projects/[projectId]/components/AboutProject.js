@@ -15,16 +15,16 @@ export default function AboutProject({ data }) {
             <div className="space-y-1">
               <p className="text-md font-semibold">Tools : </p>
               <span className="flex flex-wrap gap-2">
-                {data.tools.map((el) => (
-                  <Bagde>{el}</Bagde>
+                {data.tools.map((el, idx) => (
+                  <Bagde key={idx}>{el}</Bagde>
                 ))}
               </span>
             </div>
             {/* Features */}
             <div className="space-x-1 space-y-2">
               <p className="text-md font-semibold">Feature : </p>
-              {data.feature.map((el) => (
-                <Bagde>{el}</Bagde>
+              {data.feature.map((el, idx) => (
+                <Bagde key={idx}>{el}</Bagde>
               ))}
             </div>
           </div>

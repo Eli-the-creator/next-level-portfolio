@@ -65,6 +65,7 @@ export default function Work() {
       >
         {CONTENT.workPlace.map((el, idx) => (
           <div
+            key={idx}
             className={cn(
               "flex justify-between w-full h-fit border dark:border-zinc-300/30 first:rounded-t-xl border-b-0 last:border-b last:rounded-b-xl p-6  transition-all duration-300",
               hoverBGcolor
