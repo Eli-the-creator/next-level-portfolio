@@ -9,7 +9,7 @@ const DEFAULT_CONTENT = [
   {
     title: "Email me",
     description: "I'm experienced software engineer. I love building things.",
-    url: "mailto:neverlookbackeli@gmail.com",
+    url: "mailto:eliasz.dev0@gmail.com",
   },
   {
     title: "Resume",

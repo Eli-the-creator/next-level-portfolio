@@ -33,7 +33,7 @@ export default function Footer() {
             </Link>
           ))}
           <button
-            onClick={() => window.open("mailto:neverlookbackeli@gmail.com")}
+            onClick={() => window.open("mailto:eliasz.dev0@gmail.com")}
             className="py-2 px-6 mt-4 mb-4 border border-zinc-700 bg-indigo-300 text-sm rounded-full hover:scale-105 active:scale-90 hover:bg-indigo-400 transition-all duration-300"
           >
             Email me &rarr;

@@ -28,8 +28,8 @@ const NAV_LINKS = [
 
 export default function NavBar() {
   return (
-    <div className="sticky top-2 z-[1000] backdrop-blur-ios mx-auto backdrop-filter bg-transparent backdrop-blur-lg dark:backdrop-blur-md border border-zinc-100/10 dark:border-zinc-50/10">
-      <div className="flex justify-between  items-center max-w-6xl mx-auto rounded-xl h-16 px-8 shadow-[0_0px_10px_1px_rgba(0,0,0,0.1)] ">
+    <div className="sticky top-2 z-[1000] ">
+      <div className="flex justify-between  items-center max-w-6xl mx-auto rounded-xl h-16 px-8 shadow-[0_0px_10px_1px_rgba(0,0,0,0.1)] backdrop-blur-ios backdrop-filter bg-transparent backdrop-blur-lg dark:backdrop-blur-md border border-zinc-100/10 dark:border-zinc-50/10">
         <Link href="/" className="">
           EZ dev.
         </Link>
