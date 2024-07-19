@@ -51,15 +51,14 @@ export default function Work() {
     <div className="w-full h-fit mt-20 p-1">
       <h2 className="text-3xl leading-loose">{CONTENT.title}.</h2>
       <p className="">
-        {CONTENT.description} ({" "}
-        <Link href={"/experience"} className=" text-blue-400 underline">
+        {CONTENT.description} <br />
+        <Link href={"/experience"} className="text-blue-400 underline">
           See more about my experience
-        </Link>{" "}
-        )
+        </Link>
       </p>
       <div
         className={cn(
-          "flex flex-col m-4 mt-8 shadow-[0_0_9px_1px] rounded-xl",
+          "flex flex-col m-4 mt-8 rounded-xl shadow-[0_0_9px_4px]`",
           shadowColor
         )}
       >

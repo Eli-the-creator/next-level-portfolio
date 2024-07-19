@@ -8,8 +8,16 @@
       "fullDescription": "This web application, developed using Next.js and TypeScript, offers a powerful and user-friendly interface for creating custom forms. Users can effortlessly design their forms by dragging and dropping a variety of aesthetically pleasing blocks. Each block represents different types of input fields such as text boxes, checkboxes, radio buttons, and more. The intuitive drag-and-drop functionality ensures that even users with no coding experience can build complex forms with ease. Once the form is created and published, the application provides comprehensive analytics and statistics on the form's performance. Users can track metrics such as the number of submissions, average completion time, and field-specific data. These insights help users understand how their forms are being used and identify areas for improvement.",
       "preview": "/project/web/formBuilder/1.jpeg",
       "screenshots": [
-        "https://via.placeholder.com/200x200.png?text=Project+1",
-        "https://via.placeholder.com/200x200.png?text=Project+1"
+        "/project/web/formBuilder/0.jpeg",
+        "/project/web/formBuilder/1.jpeg",
+        "/project/web/formBuilder/2.jpeg",
+        "/project/web/formBuilder/3.jpeg",
+        "/project/web/formBuilder/4.jpeg",
+        "/project/web/formBuilder/5.jpeg",
+        "/project/web/formBuilder/6.jpeg",
+        "/project/web/formBuilder/7.jpeg",
+        "/project/web/formBuilder/8.jpeg",
+        "/project/web/formBuilder/9.jpeg"
       ],
       "likns": [
         "https://form-builder-blush.vercel.app/sign-in?redirect_url=https%3A%2F%2Fform-builder-blush.vercel.app%2F",
