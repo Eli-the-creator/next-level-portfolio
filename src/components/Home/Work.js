@@ -12,13 +12,13 @@ const CONTENT = {
   workPlace: [
     {
       company: "Hatch House Digital",
-      description: "Junior+ Front-end Engeneer",
+      description: "Middle Front-end Engeneer",
       dateStart: "2024",
       dateEnd: "2023",
     },
     {
       company: "IT Rods",
-      description: "Junior Front-end Engeneer",
+      description: "Junior+ Front-end Engeneer",
       dateStart: "2023",
       dateEnd: "2022",
     },
