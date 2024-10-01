@@ -47,7 +47,7 @@ export default function Home() {
       <About />
       <Gallery />
       <Work />
-      <div className="mt-20 flex gap-2 flex-wrap px-6">
+      <div className="mt-20 flex gap-2 flex-wrap justify-center px-6">
         {TECH_STACK.map((el, idx) => (
           <Bagde key={idx}>{el}</Bagde>
         ))}

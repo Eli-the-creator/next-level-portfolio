@@ -13,20 +13,20 @@ const CONTENT = {
     {
       company: "Hatch House Digital",
       description: "Junior+ Front-end Engeneer",
-      dateStart: "2020",
-      dateEnd: "2021",
+      dateStart: "2024",
+      dateEnd: "2023",
     },
     {
       company: "IT Rods",
       description: "Junior Front-end Engeneer",
-      dateStart: "2021",
-      dateEnd: "2023",
+      dateStart: "2023",
+      dateEnd: "2022",
     },
     {
       company: "Freelance",
       description: "Junior Front-end Engeneer",
-      dateStart: "2023",
-      dateEnd: "2024",
+      dateStart: "2021",
+      dateEnd: "2020",
     },
   ],
 };
@@ -36,7 +36,9 @@ export default function Work() {
   const { resolvedTheme } = useTheme();
 
   const hoverBGcolor =
-    resolvedTheme === "dark" ? "hover:bg-slate-800" : "hover:bg-slate-200/60";
+    resolvedTheme === "dark"
+      ? "hover:bg-slate-800"
+      : "hover:shadow-[0px_0px_12px_0px_rgba(12,12,12,0.3)]";
 
   const shadowColor =
     resolvedTheme === "dark" ? "shadow-white/10" : " shadow-black/10";
